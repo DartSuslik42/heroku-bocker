@@ -13,7 +13,7 @@ Make sure you have Java and Maven installed.  Also, install the [Heroku CLI](htt
 ```sh
 $ git clone https://github.com/heroku/java-getting-started.git
 $ cd java-getting-started
-$ mvn install
+$ mvnw install
 $ heroku local:start
 ```
 
